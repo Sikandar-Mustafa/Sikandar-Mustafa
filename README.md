@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sikandar-Mustafa&label=Profile%20Views&color=ff1493&style=for-the-badge&labelColor=000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Sikandar-Mustafa?label=Followers&color=00ff7f&style=for-the-badge&labelColor=000" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Sikandar-Mustafa?label=Stars&color=ffd700&style=for-the-badge&labelColor=000" alt="Stars" />
-  <a href="mailto:rajpootatwork@gmail.com"><img src="https://img.shields.io/badge/Status-Available_For_Hire-brightgreen?style=for-the-badge" alt="Available for hire" /></a>
+  <a href="mailto:hello@sikandar.pro"><img src="https://img.shields.io/badge/Status-Available_For_Hire-brightgreen?style=for-the-badge" alt="Available for hire" /></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@
           <strong>Portfolio:</strong> <a href="https://sikandar.pro/">sikandar.pro</a> · <a href="https://sikandar.pro/Muhammad_Sikandar_Mustafa_CV.pdf">Download CV</a>
         </p>
         <p>
-          <strong>Contact:</strong> <a href="mailto:rajpootatwork@gmail.com">rajpootatwork@gmail.com</a>
+          <strong>Contact:</strong> <a href="mailto:hello@sikandar.pro">hello@sikandar.pro</a>
         </p>
       </td>
       <td align="center" valign="middle" width="45%">
@@ -140,8 +140,8 @@
   <a href="https://x.com/skandar_rajpoot" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:rajpootatwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajpootatwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hello@sikandar.pro">
+    <img src="https://img.shields.io/badge/Email-hello%40sikandar.pro-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
